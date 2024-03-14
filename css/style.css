@@ -232,9 +232,8 @@ img {
 }
 .our-team-list {
   background-color: #ffffff;
-  display: flex;
+
   flex-wrap: wrap;
-  gap: 24px;
 }
 
 .our-team-title {
@@ -277,7 +276,7 @@ img {
 /* =========== /Our Team Section styles =========== */
 
 /* =========== Our Portfolio Section styles =========== */
-.our-portfolio-sectionn {
+.our-portfolio-section {
   padding: 120px 0 120px 0;
 }
 
