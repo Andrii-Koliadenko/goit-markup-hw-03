@@ -217,6 +217,7 @@ img {
   gap: 24px;
 }
 .benefits {
+  border-radius: 0px 0px 4px 4px;
   width: calc((100% - 72px) / 4);
 }
 /* =========== /Options Section styles =========== */
@@ -248,7 +249,10 @@ img {
 }
 .our-team-list-item {
   background-color: #ffffff;
+  width: 264px;
+  border-radius: 0px 0px 4px 4px;
 }
+
 .our-team-list-title {
   font-weight: 500;
   font-size: 20px;
@@ -273,10 +277,11 @@ img {
 /* =========== /Our Team Section styles =========== */
 
 /* =========== Our Portfolio Section styles =========== */
-.our-portfolio-sectoin {
+.our-portfolio-sectionn {
   padding-top: 120px;
   padding-bottom: 120px;
 }
+
 .our-portfolio-list {
   display: flex;
   flex-wrap: wrap;
