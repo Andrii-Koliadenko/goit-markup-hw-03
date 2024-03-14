@@ -236,6 +236,7 @@ img {
   display: flex;
   flex-wrap: wrap;
   gap: 24px;
+  border-radius: 0px 0px 4px 4px;
 }
 .our-team-title {
   font-weight: 700;
@@ -250,7 +251,6 @@ img {
 .our-team-list-item {
   background-color: #ffffff;
   width: 264px;
-  border-radius: 0px 0px 4px 4px;
 }
 
 .our-team-list-title {
