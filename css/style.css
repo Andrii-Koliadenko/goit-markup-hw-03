@@ -231,9 +231,8 @@ img {
   padding: 120px 0;
 }
 .our-team-list {
-  background-color: #ffffff;
-  flex-wrap: wrap;
   display: flex;
+  flex-wrap: wrap;
   gap: 24px;
 }
 
