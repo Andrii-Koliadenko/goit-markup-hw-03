@@ -232,8 +232,9 @@ img {
 }
 .our-team-list {
   background-color: #ffffff;
-
   flex-wrap: wrap;
+  display: flex;
+  gap: 24px;
 }
 
 .our-team-title {
@@ -248,8 +249,6 @@ img {
 }
 .our-team-list-item {
   background-color: #ffffff;
-  display: flex;
-  gap: 24px;
   width: 264px;
   border-radius: 0px 0px 4px 4px;
 }
