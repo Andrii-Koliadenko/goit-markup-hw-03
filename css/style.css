@@ -230,14 +230,15 @@ img {
 .our-team-section {
   background-color: #f4f4fd;
   padding: 120px 0;
+  border-radius: 0px 0px 4px 4px;
 }
 .our-team-list {
   background-color: #ffffff;
   display: flex;
   flex-wrap: wrap;
   gap: 24px;
-  border-radius: 0px 0px 4px 4px;
 }
+
 .our-team-title {
   font-weight: 700;
   font-size: 36px;
@@ -277,14 +278,16 @@ img {
 /* =========== /Our Team Section styles =========== */
 
 /* =========== Our Portfolio Section styles =========== */
+.our-portfolio-sectionn {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
 
 .our-portfolio-list {
   display: flex;
   flex-wrap: wrap;
   column-gap: 24px;
   row-gap: 48px;
-  padding-top: 120px;
-  padding-bottom: 120px;
 }
 
 .our-portfolio-list-item {
