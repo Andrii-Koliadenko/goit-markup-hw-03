@@ -276,8 +276,9 @@ img {
 /* =========== /Our Team Section styles =========== */
 
 /* =========== Our Portfolio Section styles =========== */
-.our-portfolio-list {
-  padding: 120px 0 120px 0;
+.our-portfolio-section {
+  padding-top: 120px;
+  padding-bottom: 120px;
 }
 
 .our-portfolio-list {
